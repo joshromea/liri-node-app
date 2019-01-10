@@ -27,7 +27,7 @@ With the repo, there is a `random.txt` file. This function will take what is in 
 
 # Demo
 
-![]<iframe src="https://drive.google.com/file/d/1thieRoGfdpSxkz3v7j0kdDsjN5MB6ZG3/preview" width="640" height="480"></iframe>
+[Link to Demo video](https://drive.google.com/file/d/1thieRoGfdpSxkz3v7j0kdDsjN5MB6ZG3/view)
 
 # APIs Used
 Spotify
